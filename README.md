@@ -1,5 +1,5 @@
 - Hi, I’m @zohaibterminator, I am a student of Computer Science
-- I’m interested in learning about Front-End Development and Data Science
+- I’m interested in learning about Mobile Apps Development and Data Science
 - I’m currently doing Bachelors in Computer Science from FAST National University, Karachi
 - You can reach me through my email zohaibsaqib803@gmail.com
 
