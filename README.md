@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Zohaib Saqib</h1>
 <h3 align="left">Aspiring Data Scientist and Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **Natural Language Processing**, **Transformers** and **Langchain**
+- 🌱 I’m currently learning **Natural Language Processing**, **Langchain** and **FastAPI**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
